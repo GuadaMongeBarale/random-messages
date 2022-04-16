@@ -1,5 +1,5 @@
 {
-  "name": "random-messages",
+  "name": "random-phrases",
   "version": "1.0.1",
   "description": "This project randomly prints motivational phrases on your terminal.",
   "main": "src/index.js",

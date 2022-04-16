@@ -1,4 +1,4 @@
-# random-messages
+# random-phrases
 
 This project randomly prints motivational phrases on your terminal. 
 
