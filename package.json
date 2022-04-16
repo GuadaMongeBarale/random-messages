@@ -1,6 +1,6 @@
 {
   "name": "random-messages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This project randomly prints motivational phrases on your terminal.",
   "main": "src/index.js",
   "scripts": {
@@ -15,18 +15,14 @@
     "type": "git",
     "url": "git+https://github.com/GuadaMongeBarale/random-messages.git"
   },
-
   "author": "Guadalupe Monge Barale <guadamongebarale@gamil.com>",
   "license": "MIT",
-
   "bugs": {
     "url": "https://github.com/GuadaMongeBarale/random-messages/issues"
   },
   "homepage": "https://github.com/GuadaMongeBarale/random-messages#readme",
-  
   "bin": {
     "random-phrases": "./bin/global.js"
   },
   "preferGlobal": true
-  
 }
