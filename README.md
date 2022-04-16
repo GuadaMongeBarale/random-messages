@@ -5,7 +5,7 @@ This project randomly prints motivational phrases on your terminal.
 ## Install
 
 ```npm
-npm install -g random-msg
+npm install -g random-phrases
 ```
 
 # Usage
